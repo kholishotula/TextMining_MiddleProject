@@ -1,4 +1,4 @@
-Model,Params,CV Score (Mean),CV Score (Std),Test Accuracy
+Model,Params,Train Score (Mean),Train Score (Std),Test Accuracy
 Naive Bayes,"{'mnb__alpha': 1, 'tfidf__ngram_range': (1, 2)}",0.975820895522388,0.0015366612150726777,0.9745454545454545
 Logistic Regression,"{'lr__C': 10, 'tfidf__ngram_range': (1, 2)}",0.9874626865671642,0.00152209537719187,0.9890909090909091
 Linear SVM,"{'svm__C': 1, 'tfidf__ngram_range': (1, 2)}",0.9882089552238806,0.0019687919340706014,0.9881818181818182
